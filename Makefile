@@ -3,11 +3,11 @@
 # app.py should pass pylint
 # optional, but recommended, build a simple integration test
 
-setup:
-	# Create python virtualenv & source it
+# setup:
+# 	# Create python virtualenv & source it
 
-	python3 -m venv ~/.DockerExercise
-	# source ~/.udacity-devops/bin/activate
+# 	python3 -m venv ~/.DockerExercise
+# 	# source ~/.udacity-devops/bin/activate
 
 install:
 	# This should be run from inside a virtualenv
